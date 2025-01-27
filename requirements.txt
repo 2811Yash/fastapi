@@ -5,3 +5,4 @@ langchain
 langserve
 langchain-google-genai
 sse_starlette
+CORSMiddleware
